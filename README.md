@@ -85,7 +85,8 @@
 
     **Akses file -->**[index.php](index.php)
 
----
+![285637568-42cdd7c9-3951-4915-9bf1-b297a1d88a4e](https://github.com/aasnovita114/Lab8web_/assets/116045324/35af3c14-fae1-4b38-a388-01ee38f78d6b)
+
 
 9. **Menambah Data (Create)**
     Buat file baru dengan nama **tambah.php**   
@@ -124,7 +125,11 @@
 
 
 
----
+
+
+https://github.com/aasnovita114/Lab8web_/assets/116045324/6197e1e6-4fc2-41b4-aea1-d87e9aa52b75
+
+
 
 
 <hr>
